@@ -2,4 +2,4 @@
 
 A React aplication that consumes the smartbrain-api that uses Clarifai for facial recognition.
 
-Heroku URL:
+Heroku URL: https://smart-mind.herokuapp.com/
